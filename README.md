@@ -1,0 +1,1 @@
+O objetivo desse repositório é armazenar e demonstrar um estudo da base de GraphQL
